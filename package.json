@@ -18,5 +18,8 @@
     "@commitlint/config-conventional": "^19.2.2",
     "husky": "^9.1.5",
     "lint-staged": "^15.2.9"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
